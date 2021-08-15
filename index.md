@@ -11,3 +11,8 @@ Da click para ser redireccionado  [CLISP](https://clisp.sourceforge.io/).
 
 Da click para ser redireccionado  [LISPIDE](https://www.daansystems.com/lispide/).
 
+
+```lisp
+(* 6 6 6 5)
+```
+
