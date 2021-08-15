@@ -11,8 +11,8 @@ Da click para ser redireccionado  [CLISP](https://clisp.sourceforge.io/).
 
 Da click para ser redireccionado  [LISPIDE](https://www.daansystems.com/lispide/).
 
-
+Un calculo sencillo
 ```lisp
-(* 6 6 6 5)
+(* 3 4 7 5)
 ```
 
