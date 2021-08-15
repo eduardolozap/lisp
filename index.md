@@ -16,3 +16,7 @@ Un calculo sencillo
 (* 3 4 7 5)
 ```
 
+La respuesta es la suma de todos los elementos internos.
+
+> 19
+
